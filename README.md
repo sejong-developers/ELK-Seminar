@@ -30,4 +30,4 @@
 우리와 함께 하시려면 깃 허브 계정을 하나 만드시고 참여 하시면 됩니다.
 깃 허브를 어떻게 이용 할지에 관하여 다음 문서를 참고하여주세요
 
-[깃 허브 이용하기](https://github.com/sejong-developers/ELK-Seminar/edit/master/깃허브이용하기.md)
+[깃 허브 이용하기](https://github.com/sejong-developers/ELK-Seminar/blob/master/%EA%B9%83%ED%97%88%EB%B8%8C%EC%9D%B4%EC%9A%A9%ED%95%98%EA%B8%B0.md)
